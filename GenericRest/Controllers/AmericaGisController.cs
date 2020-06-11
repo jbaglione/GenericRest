@@ -171,7 +171,6 @@ namespace GenericRest.Controllers
             else
                 wSepDecimal = ".";
 
-
             return wSepDecimal;
 
         }
